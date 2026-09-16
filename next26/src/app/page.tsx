@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-    <div>Main 페이지</div>
+    <div>Root 페이지</div>
   );
 }

@@ -5,7 +5,7 @@ export default function MarketingLayout({ children }: LayoutProps<"/">) {
     >
       <body>
         <header>Marketing Layout Header</header>
-        <main>{children}</main>
+        {children}
         <footer>Marketing Layout Footer</footer>
       </body>
     </html>
