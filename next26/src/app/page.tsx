@@ -1,5 +1,7 @@
 export default function Home() {
   return (
-    <div>Root 페이지</div>
+    <div>
+      <h1>Root Page</h1>
+    </div>
   );
 }
