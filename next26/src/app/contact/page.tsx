@@ -1,8 +1,8 @@
-export default function Home() {
+export default function Contact() {
   return (
     <div>
       <main>
-        Root Page
+        Contact Page
       </main>
     </div>
   );
