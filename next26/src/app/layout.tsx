@@ -29,7 +29,8 @@ export default function RootLayout({
               <Link href="/nextjs">nextjs</Link> | &nbsp;
               <Link href="/routing">routing</Link> | &nbsp;
               <Link href="/ssr-ssg">ssr-ssg</Link> | &nbsp;
-              <Link href="/dynamic-routes">dynamic-routes</Link>
+              <Link href="/dynamic-routes">dynamic-routes</Link> | &nbsp;
+              <Link href="/carousel">carousel</Link>
               <br />
             </nav>
             <br />
